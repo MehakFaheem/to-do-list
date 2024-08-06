@@ -1,9 +1,10 @@
 {
-  "name": "todolist",
+  "name": "mmm-188todolist",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
+  "bin": "todolist.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
